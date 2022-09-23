@@ -1,3 +1,2 @@
 setup = ".muse/setup.sh"
-customTools = ["https://raw.githubusercontent.com/amy-keibler/lift-local-tests/failing_tool/.lift/failing_tool.py"]
-tools = ];;kljipnln9[
+customTools = ["https://raw.githubusercontent.com/amy-keibler/lift-local-tests/failing_tool/.lift/failing_tool.py", "https://raw.githubusercontent.com/gvazquezmorean/lift-local-test/v3-tool/.lift/x.sh"]
