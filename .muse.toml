@@ -1,2 +1,2 @@
 setup = ".muse/setup.sh"
-customTools = ["https://raw.githubusercontent.com/gvazquezmorean/lift-local-test/v3-tool/.lift/x.sh"]
+customTools = [ ".muse/test_warnings.sh"]
