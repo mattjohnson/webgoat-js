@@ -7,7 +7,7 @@ function tellApplicable() {
 }
 
 function tellVersion() {
-    echo 3
+    echo 5
 }
 
 function run() {
@@ -67,7 +67,7 @@ EOF
 }
 
 function tellName() {
-        printf "V3Test"
+        printf "V5Test"
 }
 
 case "$3" in
