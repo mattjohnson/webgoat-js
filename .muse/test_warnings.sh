@@ -3,7 +3,7 @@
 set -e
 
 function tellApplicable() {
-    printf "true"
+    echo "true"
 }
 
 function tellVersion() {
