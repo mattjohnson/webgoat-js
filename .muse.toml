@@ -1,2 +1,2 @@
 setup = ".muse/setup.sh"
-customTools = this is not going to work for sure.
+customTools = [ ".muse/test_warnings.sh"]
