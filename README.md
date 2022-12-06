@@ -1,3 +1,2 @@
 # webgoat-js
 
-test
