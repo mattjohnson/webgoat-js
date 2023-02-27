@@ -1,3 +1,3 @@
 # webgoat-js
 
-testing today
+testing
