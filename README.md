@@ -1,6 +1,2 @@
 # webgoat-js
 
-testing
-
-
-testing
