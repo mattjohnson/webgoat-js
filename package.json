@@ -18,9 +18,11 @@
   "homepage": "https://github.com/mattjohnson/webgoat-js#readme",
   "dependencies": {
     "axios": "0.18.0",
-    "jquery": "3.0.0",
+    "jquery": "3.0.1",
+    "debug": "3.0.1",
     "jquery-ui": "1.12.1",
-    "debug": "3.0.1"
+    "js-yaml": "^3.13.0"
+    
   }
 }
 
